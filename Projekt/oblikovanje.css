@@ -1,0 +1,446 @@
+@font-face {
+
+	font-family: "Stint";
+	src:url("stil/StintUltraCondensed-Regular.ttf");
+
+	}
+
+@font-face {
+
+	font-family: "Mate";
+	src:url("stil/MateSC-Regular.ttf");
+
+	}	
+
+
+
+
+
+ul {
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	margin-left: 20px;
+
+}
+
+
+li {
+
+	float: left;
+	margin: 10px;
+
+}
+
+h2 {
+
+	font-family: "Mate";
+
+}
+
+
+
+.zaglavlje img {
+
+	margin-left: 60%;
+	margin-bottom:-15%;
+	margin-top: 37%;
+	
+	
+	width: 180px;
+
+}
+
+.zaglavlje h1 {
+
+	color: blue;
+	margin-left: 20%;
+	margin-bottom: -50%;
+	margin-top: 10%;
+
+}
+
+.zaglavlje {
+
+	margin-top: 2%;
+	margin-bottom: 20%;
+
+}
+
+.zaglavlje table {
+
+	margin-top: 20%;
+	margin-bottom: -18.5%;
+	margin-left: 5%;
+	text-align: center;
+
+}
+
+
+
+
+body {
+
+	font-family: "Stint";
+	font-size: 24px;
+	width: 50%;
+	margin: auto;
+	background-image: url("images/alu.png");
+
+	
+
+}
+
+.uvod {
+
+	width: 30%;
+	margin-right: -50%;
+	margin-left: 2%;
+
+}
+
+
+
+
+.drugo {
+
+	width: 30%;
+	margin-left: 2%;
+
+	
+
+}
+
+.karta {
+
+	margin-left: 38%;
+	margin-top: -197%;
+	width: 40%;
+
+}
+
+
+.dveslike {
+
+	margin-left: 48%;
+	margin-top: 65%;
+
+}
+
+
+.mov {
+
+	width: 30%;
+	margin-left: 2%;
+
+}
+
+.movslik {
+
+	margin-left: 40%;
+	margin-top: -60%;
+
+}
+
+.podglavlje {
+
+	margin-left: 2%;
+
+}
+
+
+.izbornik table {
+
+	margin-top: 0%;
+	
+	margin-left: 5%;
+
+	text-align: center;
+
+}
+
+
+.tablica td {
+
+	width: 16%;
+
+}
+
+.tablica {
+
+	text-align:  center;
+
+}
+
+
+a:link {
+
+	color: #1BA7AD;
+
+}
+
+a:visited {
+
+	color: #B915C4;
+
+}
+
+a:hover {
+
+	font-weight: bold;
+	color: #B1A873;
+
+}
+
+
+a:active {
+
+	font-style: oblique;
+	color: red;
+
+}
+
+h2 {
+
+	color: #1BA7AD;
+
+}
+
+.podglavlje table {
+
+	border-color: #466b4f;
+	border-style: dotted;
+
+}
+
+.zaglavlje table {
+
+	border-color: #466b4f;
+	border-style: dotted;
+
+}
+
+
+
+@media (max-width: 900px) {
+
+	@font-face {
+
+	font-family: "Stint";
+	src:url("stil/StintUltraCondensed-Regular.ttf");
+
+	}
+
+@font-face {
+
+	font-family: "Mate";
+	src:url("stil/MateSC-Regular.ttf");
+
+	}
+
+
+	ul {
+
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	position: relative; left: 70px; top: -85px;
+	
+
+}
+
+
+li {
+
+	clear: both;
+	
+
+}
+
+
+
+.zaglavlje img {
+
+	margin-left: 60%;
+	margin-bottom:-15%;
+	margin-top: 37%;
+	
+	
+	width: 180px;
+
+}
+
+.zaglavlje h1 {
+
+	color: blue;
+	margin-left: 20%;
+	margin-bottom: -50%;
+	margin-top: 10%;
+
+}
+
+.zaglavlje {
+
+	margin-top: 2%;
+	margin-bottom: 20%;
+
+}
+
+.zaglavlje table {
+
+	margin-top: 20%;
+	margin-bottom: -18.5%;
+	margin-left: 5%;
+	text-align: center;
+
+}
+
+
+
+
+body {
+
+	font-family: "Stint";
+	font-size: 18px;
+	width: 50%;
+	margin: auto;
+	background-image: url("images/alu.png");
+
+	
+
+}
+
+.uvod {
+
+	width: 30%;
+	margin-right: -50%;
+	margin-left: 2%;
+
+}
+
+
+
+
+.drugo {
+
+	width: 30%;
+	margin-left: 2%;
+
+	
+
+}
+
+.karta {
+
+	margin-left: 38%;
+	margin-top: -197%;
+	width: 40%;
+
+}
+
+
+.dveslike {
+
+	margin-left: 48%;
+	margin-top: 65%;
+
+}
+
+
+.mov {
+
+	width: 30%;
+	margin-left: 2%;
+
+}
+
+.movslik {
+
+	margin-left: 40%;
+	margin-top: -60%;
+
+}
+
+.podglavlje {
+
+	margin-left: 2%;
+
+}
+
+
+.izbornik table {
+
+	margin-top: 0%;
+	
+	margin-left: 5%;
+
+	text-align: center;
+
+}
+
+
+.tablica td {
+
+	width: 16%;
+
+}
+
+.tablica {
+
+	text-align:  center;
+
+}
+
+
+a:link {
+
+	color: #1BA7AD;
+
+}
+
+a:visited {
+
+	color: #B915C4;
+
+}
+
+a:hover {
+
+	font-weight: bold;
+	color: #B1A873;
+
+}
+
+
+a:active {
+
+	font-style: oblique;
+	color: red;
+
+}
+
+h2 {
+
+	color: #1BA7AD;
+
+}
+
+.podglavlje table {
+
+	border-color: #466b4f;
+	border-style: dotted;
+
+}
+
+.zaglavlje table {
+
+	border-color: #466b4f;
+	border-style: dotted;
+
+}
+
+}
+
+
+

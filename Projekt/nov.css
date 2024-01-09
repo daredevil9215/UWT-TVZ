@@ -1,0 +1,258 @@
+body {
+
+	font-family: "Stint";
+	font-size: 25px;
+	background-image: url("images/alu.png");
+	 
+
+}
+
+@font-face {
+
+	font-family: "Stint";
+	src:url("stil/StintUltraCondensed-Regular.ttf");
+
+	}
+
+@font-face {
+
+	font-family: "Mate";
+	src:url("stil/MateSC-Regular.ttf");
+
+	}
+
+h2 {
+
+	font-family: "Mate";
+
+}
+
+.container {
+
+	max-width: 1000px;
+	
+
+}
+
+header img {
+
+	width: 50%;
+	padding: 20px;
+	
+
+}
+
+header {
+
+	text-align: center;
+
+}
+
+header h1 {
+
+	padding: 60px;
+	color: blue;
+
+}
+
+
+
+h1 {
+
+	text-align: center;
+	padding: 50px;
+	color: #1BA7AD;
+
+
+
+}
+
+
+.prvi img {
+
+	width: 70%; 
+
+}
+
+.prvi {
+
+	text-align: center;
+
+}
+
+.drugi img {
+
+	width:70%;
+
+}
+
+.drugi {
+
+	text-align: center;
+
+}
+
+.treci img {
+
+	width:70%;
+
+}
+
+.treci {
+
+	text-align: center;
+
+}
+
+.cetvrti img {
+
+	width:70%;
+
+}
+
+.cetvrti {
+
+	text-align: center;
+
+}
+
+.peti img {
+
+	width:50%;
+
+}
+
+.peti {
+
+	text-align: center;
+
+}
+
+.sesti img {
+
+	width:80%;
+
+}
+
+.sesti {
+
+	text-align: center;
+
+}
+
+
+
+
+.sedmi img {
+
+	width:80%;
+
+}
+
+.sedmi {
+
+	text-align: center;
+
+}
+
+
+.osmi img {
+
+	width:90%;
+
+}
+
+.osmi {
+
+	text-align: center;
+
+}
+
+
+.deveti img {
+
+	width:70%;
+
+}
+
+.deveti {
+
+	text-align: center;
+
+}
+
+a:link {
+
+	color: #1BA7AD;
+
+}
+
+a:visited {
+
+	color: #B915C4;
+
+}
+
+a:hover {
+
+	font-weight: bold;
+	color: #B1A873;
+
+}
+
+
+a:active {
+
+	font-style: oblique;
+	color: red;
+
+}
+
+h4 {
+
+	color: #cfa40c;
+
+}
+
+h6 {
+
+	color: #7d088a;
+
+}
+
+section {
+
+	font-size: 17px;
+	clear: both;
+
+}
+
+.kategorije {
+
+	float: right;
+	border: 0.5px solid #a8a2a2;
+	width: 150px;
+	height: 190px;
+	padding: 5px;
+	margin-bottom: 30px;
+	background: #dbad5e;
+
+
+
+
+}
+
+
+.kategorije h5 {
+
+	text-align: center;
+	color: #db5e5e;
+
+}
+
+footer {
+
+	text-align: center;
+
+}
+

@@ -1,0 +1,339 @@
+@font-face {
+
+	font-family: "Stint";
+	src:url("stil/StintUltraCondensed-Regular.ttf");
+
+	}
+
+@font-face {
+
+	font-family: "Mate";
+	src:url("stil/MateSC-Regular.ttf");
+
+	}	
+
+body {
+
+	font-family: "Stint";
+	font-size: 24px;
+	background-image: url("images/alu.png");
+
+}
+
+h2 {
+
+	font-family: "Mate";
+
+}
+
+.video {
+
+	position: relative; top: -220px; left: 60px;
+
+}
+
+
+
+
+.wrapper {
+
+	margin: 0 auto;
+	max-width: 700px;
+	
+
+}
+
+header img {
+
+	position: relative; left: 400px; top: -50px;
+	width: 180px;
+
+}
+
+header table {
+
+	
+	position: fixed;
+	left: 340px;
+	top: 250px;
+	width: 50%;
+	border: 3px #466b4f dotted;
+	text-align: center;
+
+
+}
+
+header h1 {
+
+	position: relative; top: 75px; left: 100px;
+	color: blue;
+
+}
+
+.prvo img {
+
+	width: 60%;
+	position: relative; left: 60px; top: 50px;
+
+}
+
+.prvo {
+
+	width: 60%;
+	position: relative; left: 40px; top: 50px;
+
+}
+
+.naslov {
+
+	color: #1BA7AD;
+	position: relative; left: 75px; top: 30px;
+
+}
+
+.drugo {
+
+	width: 60%;
+	position: relative; left: 40px; top: 125px;
+
+}
+
+.drugo img {
+
+	width:60%;
+	position: relative; left: 60px; top: 50px;
+
+}
+
+.trece {
+
+	width: 30%;
+	position: relative; left: 500px; top: -750px;
+
+}
+
+.trece h3 {
+
+	color: #1BA7AD;
+	position: relative; left: 10px;
+
+}
+
+footer table {
+
+	border-color: #466b4f;
+	border-style: dotted;
+	text-align: center;
+
+}
+
+a:link {
+
+	color: #1BA7AD;
+
+}
+
+a:visited {
+
+	color: #B915C4;
+
+}
+
+a:hover {
+
+	font-weight: bold;
+	color: #B1A873;
+
+}
+
+
+a:active {
+
+	font-style: oblique;
+	color: red;
+
+}
+
+header ul {
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: relative; top: -90px;
+	
+
+}
+
+
+header li {
+
+	float: left;
+	margin: 10px;
+
+}
+
+h2 {
+
+	clear: both;
+
+}
+
+@media (max-width: 900px) {
+
+
+
+body {
+
+	font-family: Arial;
+	font-size: 18px;
+	background-image: url("images/alu.png");
+
+}
+
+
+
+
+.wrapper {
+
+	margin: 0 auto;
+	max-width: 700px;
+	
+
+}
+
+header img {
+
+	position: relative; left: 400px; top: -50px;
+	width: 180px;
+
+}
+
+header table {
+
+	
+	position: fixed;
+	left: 340px;
+	top: 250px;
+	width: 50%;
+	border: 3px #466b4f dotted;
+	text-align: center;
+
+
+}
+
+header h1 {
+
+	position: relative; top: 75px; left: 100px;
+	color: blue;
+
+}
+
+.prvo img {
+
+	width: 60%;
+	position: relative; left: 60px; top: 50px;
+
+}
+
+.prvo {
+
+	width: 60%;
+	position: relative; left: 40px; top: 50px;
+
+}
+
+.naslov {
+
+	color: #1BA7AD;
+	position: relative; left: 75px; top: 30px;
+
+}
+
+.drugo {
+
+	width: 60%;
+	position: relative; left: 40px; top: 125px;
+
+}
+
+.drugo img {
+
+	width:60%;
+	position: relative; left: 60px; top: 50px;
+
+}
+
+.trece {
+
+	width: 30%;
+	position: relative; left: 500px; top: -750px;
+
+}
+
+.trece h3 {
+
+	color: #1BA7AD;
+	position: relative; left: 10px;
+
+}
+
+footer table {
+
+	border-color: #466b4f;
+	border-style: dotted;
+	text-align: center;
+
+}
+
+a:link {
+
+	color: #1BA7AD;
+
+}
+
+a:visited {
+
+	color: #B915C4;
+
+}
+
+a:hover {
+
+	font-weight: bold;
+	color: #B1A873;
+
+}
+
+
+a:active {
+
+	font-style: oblique;
+	color: red;
+
+}
+
+header ul {
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: relative; top: -90px;
+	
+
+}
+
+
+header li {
+
+	clear: both;
+	margin: 10px;
+
+}
+
+h2 {
+
+	clear: both;
+
+}
+
+}	
